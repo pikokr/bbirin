@@ -1,4 +1,4 @@
-### tkxkd44
+### tang2burin
 
 
 ### 개발 언어:
@@ -9,9 +9,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 
 ### Github Status
-![tkxkd444's github Status](https://github-readme-stats.vercel.app/api?username=tkxkd444&count_private=true&show_icons=true&theme=tokyonight)
+![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=tang2burin&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Top Language
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tkxkd444&theme=tokyonight&layout=compact)<br/>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tang2burin&theme=tokyonight&layout=compact)<br/>
 
 ~~I love 호떡❤~~
