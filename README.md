@@ -1,5 +1,7 @@
 # tang2burin
 
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=탕탕버린&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=안녕하세요?&descAlignY=70)
+
 
 ### 개발 언어:
 ![파이썬](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
