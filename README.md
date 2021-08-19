@@ -1,4 +1,5 @@
 # tang2burin
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=안녕해요&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Github Status
 ![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=tang2burin&count_private=true&show_icons=true&theme=material-palenight)
@@ -9,4 +10,3 @@
 **최근에 시작한 백준**
 
 ![boj-status](http://mazassumnida.wtf/api/v2/generate_badge?boj=tang2burin)
-<img width="100%" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=timeAuto&height=100&section=footer&fontSize=90">
