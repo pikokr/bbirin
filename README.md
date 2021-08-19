@@ -1,8 +1,5 @@
 # tang2burin
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=탕탕버린&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=안녕하세요?&descAlignY=70)
-
-
 ### 개발 언어:
 ![파이썬](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 
@@ -12,11 +9,12 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ### Github Status
-![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=tang2burin&count_private=true&show_icons=true&theme=tokyonight)
+![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=tang2burin&count_private=true&show_icons=true&theme=material-palenight)
 
 ### Top Language
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tang2burin&theme=tokyonight&layout=compact)<br/>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tang2burin&theme=material-palenight&layout=compact)<br/>
 
+최근에 시작한 백준 ㅎㅎ
 ![boj-status](http://mazassumnida.wtf/api/v2/generate_badge?boj=tang2burin)
 
 
