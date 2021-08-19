@@ -14,7 +14,7 @@
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tang2burin&theme=material-palenight&layout=compact)<br/>
 
-최근에 시작한 백준 ㅎㅎ
+### 최근에 시작한 백준 ㅎㅎ
 ![boj-status](http://mazassumnida.wtf/api/v2/generate_badge?boj=tang2burin)
 
 
