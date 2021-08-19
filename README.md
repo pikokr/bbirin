@@ -17,4 +17,7 @@
 ### Top Language
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tang2burin&theme=tokyonight&layout=compact)<br/>
 
+![boj-status](http://mazassumnida.wtf/api/v2/generate_badge?boj=tang2burin)
+
+
 ~~I love 호떡❤~~
