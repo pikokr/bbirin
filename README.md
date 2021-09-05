@@ -4,7 +4,7 @@
 - 🛠 I'm a Korean developer living in SLovakia
 - 🌱 Currently studying Javascript(NodeJS), HTML, CSS and SQLite
 - **📩 My email**: tang2burin@outlook.com
-- I love(?) watching Twitch
+- 💜 I love(?) watching Twitch
 
 <h3 align="left">Languages and Tools:</h3>
 
