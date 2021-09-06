@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tang2burin</h1>
 <h3 align="center">Noob Python, Javascript and C# Developer</h3>
 
-- 🛠 I'm a Korean developer living in SLovakia
+- 🛠 I'm a Korean developer living in Slovakia
 - 🌱 Currently studying Javascript(NodeJS), HTML, CSS and SQLite
 - **📩 My email**: tang2burin@outlook.com
 - 💜 I love(?) watching Twitch
