@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm tang2burin</h1>
 <h3 align="center">Noob Python, Javascript and C# Developer</h3>
+<h3 align="center">JS is Love!💛</h3>
 
 - 🛠 I'm a Korean developer living in Slovakia
 - 🌱 Currently studying Javascript(NodeJS), HTML, CSS and SQLite
