@@ -1,22 +1,18 @@
 <h1 align="center">Hi 👋, I'm tang2burin</h1>
-<h3 align="center">Javascript Developer</h3>
-<h3 align="center">JS is Love!💛</h3>
+<h3 align="center">Javascript, Web(Frontend) Developer</h3>
+<h3 align="center">💛</h3>
 
 - 🛠 I'm a Korean developer living in Slovakia
 - 🌱 Currently working on Web Developments
 - 📩 My email: tang2burin@outlook.com
 - 💜 I love(?) watching Twitch
 
-<h3 align="left">Languages and Tools:</h3>
 
-[![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/ko/)
-[![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white")](https://www.python.org)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://namu.wiki/w/HTML)
+**Languages:** _Javascript, Python, Rust_
 
-[![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/)
+**Frameworks:** _Node,js, React.js, Vue.js_
+
+**Database:** _JSON, MySQL, SQLite, MongoDB_
 
 ### Github Stats
 ![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=tang2burin&count_private=true&show_icons=true&theme=material-palenight)
