@@ -2,11 +2,12 @@
 <h3 align="center">Javascript, Web(Frontend) Developer</h3>
 <h3 align="center">💛</h3>
 
+<img align="right" src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tang2burin&cache=c">
+
 - 🛠 I'm a Korean developer living in Slovakia
 - 🌱 Currently working on Web Developments
 - 📩 My email: tang2burin@outlook.com
 - 💜 I love(?) watching Twitch
-
 
 **Languages:** _Javascript, Python, Rust_
 
