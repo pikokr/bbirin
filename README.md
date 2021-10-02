@@ -9,7 +9,7 @@
 - 📩 My email: tang2burin@outlook.com
 - 💜 I love(?) watching Twitch
 
-**Languages:** _Javascript, Python, Rust_
+**Languages:** _Javascript, Python_
 
 **Frameworks:** _Node,js, React.js, Vue.js, Express.js_
 
