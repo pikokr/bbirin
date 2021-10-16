@@ -10,7 +10,7 @@
 
 **✨ Languages:** _`JavaScript, Python`_
 
-**🗂 Frameworks:** _`React.js, Vue.js, Express.js`_
+**🗂 Frameworks:** _`Next.js, Vue.js, Express.js`_
 
 **💎 Currently Interested in** `Cloud Computings, UI Desings and Database Schemas`
 
