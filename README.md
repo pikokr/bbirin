@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bbiburin</h1>
+<h1 align="center">Hi 👋, I'm bbirin</h1>
 <h3 align="center">JavaScript, Web(Frontend) Developer</h3>
 <h3 align="center">💛</h3>
 
@@ -20,8 +20,8 @@
 - [Bio](bbiburin.bio.link)
 
 ### Github Stats
-![tang2burin's github Status](https://github-readme-stats.vercel.app/api?username=bbiburin&count_private=true&show_icons=true&theme=material-palenight)
+![bbirin's github Status](https://github-readme-stats.vercel.app/api?username=bbirin&count_private=true&show_icons=true&theme=material-palenight)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiburin&theme=material-palenight&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=bbirin&theme=material-palenight&layout=compact)
 
 <img width="100%" height="auto" align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90">
