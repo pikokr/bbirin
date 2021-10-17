@@ -16,8 +16,8 @@
 
 **:link: Links**
 - [My Discord Server](https://discord.gg/JSYP4tVnKA)
-- [Blog](bbiburin.tistory.com)
-- [Bio](bbiburin.bio.link)
+- [Blog](https://bbiburin.tistory.com)
+- [Bio](https://bbiburin.bio.link)
 
 ### Github Stats
 ![bbirin's github Status](https://github-readme-stats.vercel.app/api?username=bbirin&count_private=true&show_icons=true&theme=material-palenight)
